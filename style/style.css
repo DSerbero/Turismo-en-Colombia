@@ -33,6 +33,8 @@ aside {
     text-align: center;
     display: flex;
     flex-direction: column;
+    background-image: url(../img/aside.jpg);
+    background-size: cover;
 }
 
 a.title {
@@ -49,7 +51,7 @@ a.destinos {
 }
 
 section {
-    background-color: rgb(148, 231, 255);
+    background-color: #ffff88;
 }
 
 h2 {
