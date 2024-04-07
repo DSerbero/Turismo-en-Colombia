@@ -42,6 +42,9 @@ a.title {
     font-weight: bold;
     margin: 10px 0px;
     text-decoration: none;
+    color: black;
+    background: #ffffff48;
+    border-radius: 1.5em;
 }
 
 a.destinos {
